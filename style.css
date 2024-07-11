@@ -1,0 +1,104 @@
+@import url("style/head.css");
+@import url("style/banner.css");
+@import url("style/carrossel.css");
+@import url("style/topicos.css");
+@import url("style/contato.css");
+@import url("style/rodape.css");
+
+
+:root{
+    --cor-fundo: #EBECEE;
+    --branco: #FFFFFF;
+    --laranja: #eb9b00;
+    --azul-degrade : linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --fonte-principal: "Poppins";
+    --fonte-secundaria: "Josefin Sans";
+    --azul: #002f52;
+    --preto:#000000;
+    --cinza:#474646;
+    --cinza-claro: #858585;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: var(--cor-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400px;
+}
+
+h1{
+    background-color: white;
+
+}
+
+.container-titulo, .opcoes{
+    display: none;
+}
+
+.container_botao:checked ~ .container-rotulo > .cabecalho_menu-hamburguer{
+    background-image: url(../imagens/Menu\ Aberto.svg) ;
+
+}
+..container_botao:checked ~ .container-rotulo{
+    background: var(--azul-degrade);
+}
+
+
+
+
+
+@media screen and (min-width : 1024px) {
+ 
+    .container-titulo-livro, .container-titulo{
+        font-family: var(--fonte-secundaria) ;
+        font-size: 30px;
+
+    }
+    .container-titulo{
+        font-weight: 400;
+        display: block;
+}
+    .container-titulo-livro{
+        font-weight: 700;
+
+}
+
+.opcoes-botao:checked ~ .opcoes-rotulo > .opcoes-itens{
+    background: var(--azul-degrade);
+    color: var(--branco);
+}
+
+
+.opcoes{
+    display: block;
+    display: flex;
+    justify-content: space-between;
+}
+.opcoes-itens{
+    padding: 2em 1em ;
+    text-transform: uppercase;
+    
+}
+.opcoeslink{
+    text-decoration: none;
+    color: var(--preto);
+}
+
+.transparent{
+    display: none;
+}
+.opcoes-botao{
+    display: none;
+}
+
+.opcoes-botao:checked ~ .lista-menu{
+    display: block;
+    width: auto;}
+
+}
