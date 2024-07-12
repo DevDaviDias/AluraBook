@@ -6,6 +6,10 @@
 
 ## Imagens do projeto:
 
+![photo1720744132](https://github.com/user-attachments/assets/c087a4d6-11ae-4d5e-b632-bf0e86be8c97)
+![Captura de tela 2024-07-11 211357 - Copia](https://github.com/user-attachments/assets/a6c9506f-1b67-4af1-af98-24120ca4f520)
+![Captura de tela 2024-07-11 211357](https://github.com/user-attachments/assets/1360cdcd-272c-4068-a78b-3749699b8658)
+![Captura de tela 2024-07-11 211416](https://github.com/user-attachments/assets/af17b53b-036c-4720-b95d-e74ee45adbb4)
 
 
 
