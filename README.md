@@ -2,7 +2,7 @@
 
 ### Desenvolvi a interface do AluraBooks, uma plataforma de venda de livros digitais, aplicando técnicas de design responsivo e o conceito de mobile-first
 
-### Vizualizar meu projeto : https://bit.ly/DevDaviDias
+### Vizualizar meu projeto : [https://bit.ly/DevDaviDias](https://devdavidias.github.io/AluraBook/)
 
 ## Imagens do projeto:
 
