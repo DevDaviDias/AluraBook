@@ -45,7 +45,7 @@ h1{
     background-image: url(../imagens/Menu\ Aberto.svg) ;
 
 }
-..container_botao:checked ~ .container-rotulo{
+.container_botao:checked ~ .container-rotulo{
     background: var(--azul-degrade);
 }
 
