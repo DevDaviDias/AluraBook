@@ -17,17 +17,17 @@
 
 
 # Tecnologias e Metodologias Utilizadas:
-### * HTML5 e CSS3: Estrutura semântica e layout responsivo com flexbox e grid.
-### * SwiperJS: Integração do carrossel de lançamentos
-### * Mobile-First: Design inicial voltado a dispositivos móveis, adaptado posteriormente para desktops
-### * Media Queries: Ajustes para diferentes resoluções de tela.
+#### * HTML5 e CSS3: Estrutura semântica e layout responsivo com flexbox e grid.
+#### * SwiperJS: Integração do carrossel de lançamentos
+#### * Mobile-First: Design inicial voltado a dispositivos móveis, adaptado posteriormente para desktops
+#### * Media Queries: Ajustes para diferentes resoluções de tela.
 
 
 # Funcionalidades:
-### Barra de navegação intuitiva
-### Campo de busca centralizado
-### Carrossel de lançamentos e recomendações
-### Layout adaptável a diversas resoluçõe
+#### Barra de navegação intuitiva
+#### Campo de busca centralizado
+#### Carrossel de lançamentos e recomendações
+#### Layout adaptável a diversas resoluçõe
 
 
 
